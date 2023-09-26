@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "King Crab",
+  "avatar": "Wpa9ldamfkRuElnZm",
+  "preferredColor": "sepia",
+  "language": "python.3",
+  "game": "tic-tac-toe",
+  "run": "python3 -u ./main.py"
+}

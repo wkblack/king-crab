@@ -1,0 +1,10 @@
+{
+  "name": "Zilch Bot",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postAttachCommand": "./connect --welcome",
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["bot.py"]
+    }
+  }
+}
